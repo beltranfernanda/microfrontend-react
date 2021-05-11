@@ -1,0 +1,14 @@
+.genre-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.genre-container button{
+    text-align: center;
+    width: 100px;
+    border-radius: 7px;
+    border: none;
+    background: #E3DBE5;
+    height: 38px;
+    margin: 20px auto;
+}
